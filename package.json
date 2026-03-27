@@ -1,0 +1,23 @@
+{
+  "name": "1st-programme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api_status.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramakant03/Test_Prompt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ramakant03/Test_Prompt/issues"
+  },
+  "homepage": "https://github.com/Ramakant03/Test_Prompt#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  }
+}

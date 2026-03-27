@@ -1,0 +1,14 @@
+//Retry Failed API Call
+//In automation testing, API calls sometimes fail due to network issues.
+//Write a JavaScript program that simulates retrying a failed API call using a do...while loop. The program should retry a maximum of 5 times. Simulate random success/failure using Math.random() (40% chance of success: randomValue > 0.6). Log each attempt and print the final result.
+let MAX_ATTEMPTS = 0;
+do (){
+    if (Attempt <= 5) {
+        console.log("FAILED (Timeout/Error)")
+    }
+    else {
+        console.log("SUCCESS (Response 200 OK)")
+    }
+
+}
+while (Attempt = 0; Attempt <= 5; Attempt++)
